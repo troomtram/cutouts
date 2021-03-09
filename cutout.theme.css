@@ -1,0 +1,6 @@
+@import url("https://devinkid1.github.io/cutout/base.css");
+:root {
+  --HoverScale: 1.025;
+  --TransitionTime: 0.25s;
+  --EaseType: cubic-bezier(0, 0.75, 0, 1.75);
+}

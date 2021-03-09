@@ -1,0 +1,9 @@
+{
+    "name": "cutout",
+    "description": "Makes UI elements come out on hover.",
+    "version": "1.0.0.0",
+    "author": "trauma#0155",
+    "theme": "cutout.theme.css",
+    "consent": "false",
+    "license": "MIT"
+}
