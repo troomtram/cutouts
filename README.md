@@ -1,5 +1,4 @@
 # cutouts
 a powercord theme
-makes elements in your discord ui come out
-
-why did you read me? add me as a friend wen.
+makes elements in your discord ui come out if you hover over it
+yonkity yonk yonk yonk
